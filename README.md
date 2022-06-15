@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LongST1999
-- 👀 I’m interested in Magic the gathering
+- 👀 I’m interested in Magic The Gathering
 - 🌱 I’m currently learning vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
